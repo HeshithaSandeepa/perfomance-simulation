@@ -117,7 +117,7 @@ if __name__ == "__main__":
     counters_to_test = get_num_counters()
     start_time = time.time()
     
-    # ---define 3 scenarios---
+    # define 3 scenarios
     scenarios_to_run = [
         {
             "name": "Scenario 1: Normal Day",
